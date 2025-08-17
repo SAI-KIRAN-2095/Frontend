@@ -7,7 +7,7 @@ export class Navbar extends Component {
               
             <nav className="navbar bg-dark  navbar-expand-lg fixed-top" data-bs-theme="dark">
   <div className="container-fluid">
-    <i><a className="navbar-brand" href="/">NEWS</a></i>
+    <i><a className="navbar-brand" href="#">NEWS</a></i>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>
